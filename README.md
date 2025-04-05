@@ -1,14 +1,13 @@
- 
-# My GitHub Pages Site
+---
+title: Home
+---
 
 Welcome to my GitHub Pages site! This repository is used to host a personal or project site using [GitHub Pages](https://pages.github.com/).
 
 ## Getting Started
 
 To view the site live, visit:
-[https://<your-username>.github.io/<repo-name>/](https://<your-username>.github.io/<repo-name>/)
-
-Replace `<your-username>` and `<repo-name>` with your GitHub username and this repository name.
+[https://matthoendorf.github.io/<repo-name>/](https://matthoendorf.github.io/<repo-name>/)
 
 ## How it Works
 
