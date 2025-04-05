@@ -7,12 +7,12 @@
 - [AccuWeather Link](https://www.accuweather.com/en/us/keeneland/40223/daily-weather-forecast/2164419?day=15)
 
 **Overview of Plan:**
-- Departing from Middletown at **7:00 AM**
+- Departing from home at **7:00 AM**
 - Parking at **The Hill** (Free Parking – Gate 4)
 - Watching races from **12:00–3:30 PM**
 - Leaving around **4:00 PM** to head to Cincinnati
 - Stop at parents’ house to get ready
-- **Couples shower at Rhinegeist @ 6:00 PM**
+- **Couples shower @ 6:00 PM**
 
 ## Jump to:
 - 🗓️ [Day-Of Schedule](#day-of-schedule)
@@ -28,14 +28,14 @@
 <a name="day-of-schedule"></a>
 ## 🗓️ Day-Of Schedule
 
-- **7:00 AM** – Leave Middletown
+- **7:00 AM** – Leave home
 - **9:15–9:30 AM** – Arrive at *The Hill*, park and set up
 - **9:30–10:30 AM** – Relax, snacks, music
 - **10:30–11:30 AM** – Shuttle/walk to explore Grandstand & paddock
 - **12:00–3:30 PM** – Races at *The Hill*
 - **4:00 PM** – Depart for Cincinnati
 - **~5:00 PM** – Stop to change/freshen up
-- **5:45–6:00 PM** – Arrive at Rhinegeist for shower
+- **5:45–6:00 PM** – Arrive at brewery for shower
 
 <a name="what-to-wear"></a>
 ## 👕 What to Wear
