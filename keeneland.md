@@ -2,14 +2,17 @@
 title: "🏇 Keeneland 4/19"
 ---
 <a name="top"></a>
-**Current Weather Forecast:**
+## Overview ℹ️
+
+**Weather Forecast:**
 - Partly cloudy 🌥️
 - 63°F Hi (RealFeel 65°F), 42°F Lo
 - Light jacket recommended
 - [AccuWeather Link](https://www.accuweather.com/en/us/keeneland/40223/daily-weather-forecast/2164419?day=15)
 
-**Overview of Plan:**
+**Group Plan:**
 - Departing from home at **7:00 AM**
+- Meeting at parents' house at **7:45 AM** and carpool
 - Parking at **The Hill** (Free Parking – Gate 4)
 - Watching races from **12:00–3:30 PM**
 - Leaving around **4:00 PM** to head to Cincinnati
@@ -23,8 +26,8 @@ title: "🏇 Keeneland 4/19"
 - ✅ [Other Suggestions](#other-suggestions)
 - 🗺️ [Grounds Map](#grounds-map)
 - 💸 [Betting Strategies](#betting-strategies)
-  - 🏇 [Elkhorn Stakes (G2)](#elkhorn)
   - 🏇 [Ben Ali Stakes (G3)](#ben-ali)
+  - 🏇 [Elkhorn Stakes (G2)](#elkhorn)
  - 🧠 [Betting Terminology](#bet-terms)
 
 <a name="day-of-schedule"></a>
@@ -79,7 +82,7 @@ title: "🏇 Keeneland 4/19"
 - [ ] **Stick to a 3:45 PM pack-up time** to avoid traffic delays exiting The Hill.
 - [ ] **Charge phone the night before** and pack a portable charger with a cable.
 - [ ] **Apply sunscreen and bring lip balm**, even if it’s cloudy or cool.
-- [ ] **Pack a change of clothes** for the couples shower at Rhinegeist.
+- [ ] **Pack a change of clothes** for the couples shower at brewery.
 
 <a name="grounds-map"></a>
 ## 🗺️ Grounds Map
@@ -92,15 +95,44 @@ title: "🏇 Keeneland 4/19"
 ## 💸 Betting Strategies
 
 💰  **Total Wagered:** $88
-1. **($42)** G2 Elkhorn Stakes – 1½ mi Turf  
-2. **($46)** G3 Ben Ali Stakes – 1⅛ mi Dirt  
+1. **($42)** Race 9: G2 Elkhorn Stakes – 1½ mi Turf  
+2. **($46)** Race 10: G3 Ben Ali Stakes – 1⅛ mi Dirt  
 
-⏰ **Note:** These races may occur after your planned 4:00 PM departure — check the final post times if you'd like to stay and adjust plans accordingly.
+### ⏰ Post Times
+
+- 1:00 – 1st WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FIVE               - 1:32 – 2nd WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FOUR 
+- 2:04 – 3rd WPS, DBL, EX, TRI, PICK THREE, SUPER
+- 2:36 – 4th WPS, DBL, EX, TRI, PICK THREE, SUPER
+- 3:08 – 5th WPS, DBL, EX, TRI, PICK THREE, SUPER
+- 3:40 – 6th WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK SIX
+- 4:12 – 7th WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FIVE
+- 4:44 – 8th WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FOUR
+- 5:16 – 9th WPS, DBL, EX, TRI, SUPER – **BEN ALI (G3)**
+- 5:48 – 10th WPS, EX, TRI, SUPER – **VISITLEX ELKHORN (G2)**
+- 6:20 – 11th WPS, EX, TRI, SUPER, S HI 5
+---
+
+<a name="ben-ali"></a>
+### 🏇 [Ben Ali Stakes (G3) – Dirt Route](https://www.keeneland.com/events/300000-ben-ali-g3)
+
+#### 1. [WIN](#win) / [PLACE](#place)
+- **$10 Win – Bishops Bay**  
+  _Tactical, gutsy, ready to fire_
+
+- **$10 Place – Batten Down**  
+  _Front-runner, big G3 win last out_
+
+#### 2. [TRIFECTAS](#trifecta) 
+- **$2 Trifecta Box – Bishops Bay, Batten Down, First Mission** ($12)  
+- **$1 Trifecta Box – Bishops Bay, Batten Down, First Mission, Red Route One** ($12)
+
+#### 3. [EXACTA KEY](#exacta)
+- **$2 Exacta Key – Bishops Bay over Batten Down, First Mission**
 
 ---
 
 <a name="elkhorn"></a>
-### 🏇 Elkhorn Stakes (G2) – Turf Marathon  
+### 🏇 [Elkhorn Stakes (G2) – Turf Marathon](https://www.keeneland.com/events/350000-elkhorn-g2)
 
 #### 1. [WIN](#win) / [PLACE](#place)
 - **$10 Win – Crupi**  
@@ -117,28 +149,9 @@ title: "🏇 Keeneland 4/19"
 - **$4 Show – Highway Robber**  
   _Consistent finisher, good value_
 
-#### 4. LONGSHOT SPRINKLE  
+#### 4. [LONGSHOT SPRINKLE](#longshot) 
 - **$2 Win / $2 Place – Another Mystery**  
   _Stamina play, live if pace collapses_
-
----
-
-<a name="ben-ali"></a>
-### 🏇 Ben Ali Stakes (G3) – Dirt Route
-
-#### 1. [WIN](#win) / [PLACE](#place)
-- **$10 Win – Bishops Bay**  
-  _Tactical, gutsy, ready to fire_
-
-- **$10 Place – Batten Down**  
-  _Front-runner, big G3 win last out_
-
-#### 2. [TRIFECTAS](#trifecta) 
-- **$2 Trifecta Box – Bishops Bay, Batten Down, First Mission** ($12)  
-- **$1 Trifecta Box – Bishops Bay, Batten Down, First Mission, Red Route One** ($12)
-
-#### 3. [EXACTA KEY](#exacta)
-- **$2 Exacta Key – Bishops Bay over Batten Down, First Mission**
 
 ---
 
@@ -183,12 +196,14 @@ New to betting? Here’s a quick rundown of common wager types used in the strat
 - Big payout, tough to hit.
 - **Box**: Covers all combinations of your picks in the top 3.
 
-### **Other Terms**
-- **Longshot**: A horse with high odds and low expectations — but potentially high reward.
+<a name="longshot"></a>
+### **LONGSHOT**: A horse with high odds and low expectations — but potentially high reward.
+
+### **OTHERS:**
 - **Exacta Box ($1)**: Includes all combos. A 3-horse box = 6 combinations = $6 total.
 - **Trifecta Box ($1)**: A 3-horse box = 6 combinations ($6). A 4-horse box = 24 combinations ($24).
 
-### **Tips:**
+### **Other Tips:**
 - Odds are listed as **5-1**, **10-1**, etc. This means you win $5 or $10 for every $1 bet (plus your original bet back).
 - You can place bets at teller windows or self-service kiosks at Keeneland.
 - You can also bet via apps like TwinSpires or TVG (but may require account setup in advance).
