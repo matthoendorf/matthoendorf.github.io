@@ -83,7 +83,7 @@
 <a name="grounds-map"></a>
 ## 🗺️ Grounds Map
 
-![Keeneland Grounds Map](/storage/emulated/0/Download/keeneland_map.jpg)
+![Keeneland Grounds Map](images/keeneland_map.jpg)
 
 ---
 
