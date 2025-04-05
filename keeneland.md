@@ -14,6 +14,7 @@ title: "🏇 Keeneland 4/19"
 - Departing from home at **7:00 AM**
 - Meeting at parents' house at **7:45 AM** and carpool
 - Parking at **The Hill** ([Free Parking – Gate 4](https://maps.app.goo.gl/yucvJZQQddQWJcuy6))
+  - `38.0443790, -84.5933167`
 - Watching races from **12:00–3:30 PM**
 - Leaving around **4:00 PM** to head to Cincinnati
 - Stop at parents’ house to get ready
@@ -91,6 +92,7 @@ title: "🏇 Keeneland 4/19"
 ![Keeneland Grounds Map](images/keeneland_map.jpg)
 
 Parking at **The Hill** ([Free Parking – Gate 4](https://maps.app.goo.gl/yucvJZQQddQWJcuy6)
+- `38.0443790, -84.5933167`
 
 <a name="times"></a>
 ### ⏰ Post Times
