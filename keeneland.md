@@ -1,5 +1,4 @@
-<a name="top"></a>
-# 🏇 Keeneland - April 19th
+# 🏇 Keeneland Planning <a name="top"></a>
 
 **Current Weather Forecast:**
 - Partly cloudy 🌥️
