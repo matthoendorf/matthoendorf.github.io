@@ -2,7 +2,7 @@
 title: "🏇 Keeneland 4/19"
 ---
 <a name="top"></a>
-## Overview ℹ️
+## Overview
 
 **Weather Forecast:**
 - Partly cloudy 🌥️
@@ -13,7 +13,7 @@ title: "🏇 Keeneland 4/19"
 **Group Plan:**
 - Departing from home at **7:00 AM**
 - Meeting at parents' house at **7:45 AM** and carpool
-- Parking at **The Hill** (Free Parking – Gate 4)
+- Parking at **The Hill** ([Free Parking – Gate 4](https://maps.app.goo.gl/yucvJZQQddQWJcuy6))
 - Watching races from **12:00–3:30 PM**
 - Leaving around **4:00 PM** to head to Cincinnati
 - Stop at parents’ house to get ready
@@ -25,9 +25,10 @@ title: "🏇 Keeneland 4/19"
 - 🧾 [Tailgating Checklist](#tailgating-checklist)
 - ✅ [Other Suggestions](#other-suggestions)
 - 🗺️ [Grounds Map](#grounds-map)
+- ⏰ [Post Times](#times)
 - 💸 [Betting Strategies](#betting-strategies)
-  - 🏇 [Ben Ali Stakes (G3)](#ben-ali)
-  - 🏇 [Elkhorn Stakes (G2)](#elkhorn)
+  - 🏇 [Race 9: Ben Ali Stakes (G3)](#ben-ali)
+  - 🏇 [Race 10: Elkhorn Stakes (G2)](#elkhorn)
  - 🧠 [Betting Terminology](#bet-terms)
 
 <a name="day-of-schedule"></a>
@@ -89,15 +90,9 @@ title: "🏇 Keeneland 4/19"
 
 ![Keeneland Grounds Map](images/keeneland_map.jpg)
 
----
+Parking at **The Hill** ([Free Parking – Gate 4](https://maps.app.goo.gl/yucvJZQQddQWJcuy6)
 
-<a name="betting-strategies"></a>
-## 💸 Betting Strategies
-
-💰  **Total Wagered:** $88
-1. **($42)** Race 9: G2 Elkhorn Stakes – 1½ mi Turf  
-2. **($46)** Race 10: G3 Ben Ali Stakes – 1⅛ mi Dirt  
-
+<a name="times"></a>
 ### ⏰ Post Times
 
 - 1:00 – 1st WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FIVE               - 1:32 – 2nd WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FOUR 
@@ -110,7 +105,13 @@ title: "🏇 Keeneland 4/19"
 - 5:16 – 9th WPS, DBL, EX, TRI, SUPER – **BEN ALI (G3)**
 - 5:48 – 10th WPS, EX, TRI, SUPER – **VISITLEX ELKHORN (G2)**
 - 6:20 – 11th WPS, EX, TRI, SUPER, S HI 5
----
+
+<a name="betting-strategies"></a>
+## 💸 Betting Strategies
+
+💰  **Total Wagered:** $88
+1. **($42)** Race 9: G2 Elkhorn Stakes – 1½ mi Turf  
+2. **($46)** Race 10: G3 Ben Ali Stakes – 1⅛ mi Dirt
 
 <a name="ben-ali"></a>
 ### 🏇 [Ben Ali Stakes (G3) – Dirt Route](https://www.keeneland.com/events/300000-ben-ali-g3)
@@ -128,8 +129,6 @@ title: "🏇 Keeneland 4/19"
 
 #### 3. [EXACTA KEY](#exacta)
 - **$2 Exacta Key – Bishops Bay over Batten Down, First Mission**
-
----
 
 <a name="elkhorn"></a>
 ### 🏇 [Elkhorn Stakes (G2) – Turf Marathon](https://www.keeneland.com/events/350000-elkhorn-g2)
@@ -153,15 +152,11 @@ title: "🏇 Keeneland 4/19"
 - **$2 Win / $2 Place – Another Mystery**  
   _Stamina play, live if pace collapses_
 
----
-
 📌 **Notes:**  
 - **Crupi** and **Bishops Bay** are key leans.  
 - Elkhorn favors stamina/turf form; Ben Ali favors pace/class.  
 - Adjust race numbers as post draw is confirmed.
 - Adjust plan based on race-day odds.
-
----
 
 <a name="bet-terms"></a>
 ## 🧠 Betting Terminology
