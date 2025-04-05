@@ -2,7 +2,7 @@
 title: My GitHub Pages Site
 description: A personal website or project page with a dark theme.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://<your-username>.github.io" # replace with your GitHub Pages URL
+url: "https://matthoendorf.github.io" # replace with your GitHub Pages URL
 
 theme: jekyll-theme-cayman
 
