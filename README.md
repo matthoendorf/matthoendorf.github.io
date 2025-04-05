@@ -7,7 +7,7 @@ Welcome to my GitHub Pages site! This repository is used to host a personal or p
 ## Getting Started
 
 To view the site live, visit:
-[https://matthoendorf.github.io/<repo-name>/](https://matthoendorf.github.io/<repo-name>/)
+[https://matthoendorf.github.io](https://matthoendorf.github.io)
 
 ## How it Works
 
