@@ -269,6 +269,13 @@ New to betting? Here’s a quick rundown of common wager types used in the strat
 
 | Race | Wager Type   | Horse(s)                                      | Amount   | Placed? | Result |
 |------|--------------|-----------------------------------------------|----------|---------|--------|
+| 1    | WIN          | TBD                                           | $10      | [ ]     |        |
+| 1–2  | DOUBLE       | TBD > TBD                                     | $5       | [ ]     |        |
+| 1–3  | PICK 3       | TBD / TBD / TBD                               | $1 x N   | [ ]     |        |
+| 2    | EXACTA BOX   | TBD, TBD                                      | $1 box   | [ ]     |        |
+| 5    | WIN          | TBD                                           | $10      | [ ]     |        |
+| 6    | PLACE        | TBD                                           | $10      | [ ]     |        |
+
 | 9    | WIN          | Bishops Bay                                   | $10      | [ ]     |        |
 | 9    | PLACE        | Batten Down                                   | $10      | [ ]     |        |
 | 9    | TRIFECTA BOX | Bishops Bay, Batten Down, First Mission       | $2 box   | [ ]     |        |
