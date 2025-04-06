@@ -1,5 +1,5 @@
 ---
-title: "🧻 Poetry"
+title: "🧻 Poems"
 ---
 
 ## Table of Contents
