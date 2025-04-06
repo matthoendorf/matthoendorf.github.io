@@ -27,7 +27,7 @@ title: "🏇 Keeneland 4/19"
 - ✅ [Other Suggestions](#other-suggestions)
 - 🗺️ [Maps](#maps)
 - ⏰ [Post Times](#times)
-- 💸 [Betting Strategies](#betting-strategies)
+- 💸 [Betting Examples](#betting)
   - 🏇 [Race 9: Ben Ali Stakes (G3)](#ben-ali)
   - 🏇 [Race 10: Elkhorn Stakes (G2)](#elkhorn)
  - 🧠 [Betting Terminology](#bet-terms)
@@ -112,8 +112,8 @@ _Maps © Keeneland Association, Inc._
 - 5:48 – 10th WPS, EX, TRI, SUPER – **ELKHORN (G2)**
 - 6:20 – 11th WPS, EX, TRI, SUPER, S HI 5
 
-<a name="betting-strategies"></a>
-## 💸 Betting Strategies
+<a name="betting"></a>
+## 💸 Betting Examples
 
 💰  **Total Wagered:** $88
 1. **($42)** Race 9: G2 Elkhorn Stakes – 1½ mi Turf  
