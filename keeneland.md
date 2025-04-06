@@ -279,4 +279,10 @@ New to betting? Here’s a quick rundown of common wager types used in the strat
 
 ---
 
+## 🤳 Share This!
+
+![keeneland_qr_code](https://github.com/user-attachments/assets/2eed1b23-ded6-4af0-8b3c-4afb3bb70537)
+
+---
+
 [Back to Top](#top)
