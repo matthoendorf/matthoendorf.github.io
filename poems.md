@@ -28,7 +28,6 @@ I don't want this tooth
 Pull it out of my head  
 The pain comes at night  
 I'd rather be dead  
-
 They put on a crown  
 And cemented it down  
 I'm tired of soup  
@@ -42,7 +41,6 @@ It's golden hour
 As I stand in the shower  
 The sun blinds my eyes  
 But it feels kind of nice  
-
 I've been here too long  
 And still haven't washed  
 Would pissing be wrong?  
@@ -56,7 +54,6 @@ A person fell to the ground
 Was it drugs, alcohol, or illness?  
 The room was too much sound  
 I felt it wasn't my business  
-
 But my partner told me to go  
 And grab them a chair to rest  
 While I lost my spot to a schmo  
@@ -70,7 +67,6 @@ Why can't I sleep
 I was already so close  
 Why can't I sleep  
 I could use a good doze  
-
 It's already five  
 Alarm rings at seven  
 I'm scheduled on keys  
