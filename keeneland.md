@@ -97,7 +97,8 @@ Parking at **The Hill** ([Free Parking – Gate 4](https://maps.app.goo.gl/yucvJ
 <a name="times"></a>
 ### ⏰ Post Times
 
-- 1:00 – 1st WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FIVE               - 1:32 – 2nd WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FOUR 
+- 1:00 – 1st WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FIVE
+- 1:32 – 2nd WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FOUR 
 - 2:04 – 3rd WPS, DBL, EX, TRI, PICK THREE, SUPER
 - 2:36 – 4th WPS, DBL, EX, TRI, PICK THREE, SUPER
 - 3:08 – 5th WPS, DBL, EX, TRI, PICK THREE, SUPER
@@ -105,7 +106,7 @@ Parking at **The Hill** ([Free Parking – Gate 4](https://maps.app.goo.gl/yucvJ
 - 4:12 – 7th WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FIVE
 - 4:44 – 8th WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FOUR
 - 5:16 – 9th WPS, DBL, EX, TRI, SUPER – **BEN ALI (G3)**
-- 5:48 – 10th WPS, EX, TRI, SUPER – **VISITLEX ELKHORN (G2)**
+- 5:48 – 10th WPS, EX, TRI, SUPER – **ELKHORN (G2)**
 - 6:20 – 11th WPS, EX, TRI, SUPER, S HI 5
 
 <a name="betting-strategies"></a>
@@ -194,7 +195,7 @@ New to betting? Here’s a quick rundown of common wager types used in the strat
 - **Box**: Covers all combinations of your picks in the top 3.
 
 <a name="longshot"></a>
-### **LONGSHOT**: 
+### **LONGSHOT**
 - A horse with high odds and low expectations — but potentially high reward.
 
 ### **OTHERS:**
