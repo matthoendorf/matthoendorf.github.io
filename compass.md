@@ -16,7 +16,7 @@ The words of this document should come through prayer and self-reflection.
 ## Jump To...
 
 - [✝️ Relationship with God](#relationship-with-god)
-- [💍 Relationship with Allyson](#relationship-with-allyson)
+- [💍 Relationship with Partner](#relationship-with-partner)
 - [👨‍👩‍👧‍👦 Family & Friends](#family--friends)
 - [⚕️ Health & Self-Care](#health--self-care)
 - [👨‍💻 Work & Career](#work--career)
@@ -33,13 +33,13 @@ The words of this document should come through prayer and self-reflection.
 [Matthew‬ ‭22:37‭-‬38‬ ‭NKJV‬](https://bible.com/bible/114/mat.22.37.NKJV)
 
 ### Tenants
-* [**Pray now!**](2-prayer.md)
+* **Pray now!**
 * Read scripture
 * Daily reflection and inventory
-* Review [sermon notes](Sermon Notes)
+* Review sermon notes
 
-<a name="relationship-with-allyson"></a>
-## Relationship with Allyson 💍
+<a name="relationship-with-partner"></a>
+## Relationship with Partner 💍
 
 ### Scripture
 > ²⁵ Husbands, love your wives, just as Christ also loved the church and gave Himself for her.  
@@ -54,7 +54,7 @@ The words of this document should come through prayer and self-reflection.
 ### Tenants
 * Show intimacy & affection
 * Be intentional **today** and give grace
-* Daily Paired app & conversation
+* Daily thoughtful conversation
 
 <a name="family--friends"></a>
 ## Family & Friends 👨‍👩‍👧‍👦
@@ -80,7 +80,6 @@ The words of this document should come through prayer and self-reflection.
 ### Tenants
 * Honor your body and bless what goes in it
 * Go for a walk daily
-* Count calories
 * Address health issues as they arise
 
 <a name="work--career"></a>
