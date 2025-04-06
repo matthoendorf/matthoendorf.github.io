@@ -1,6 +1,6 @@
  
 title: mdh pages
-baseurl: "/README" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://matthoendorf.github.io" # replace with your GitHub Pages URL
 
 remote_theme: jekyll/minima
