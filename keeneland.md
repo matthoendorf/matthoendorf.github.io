@@ -13,7 +13,7 @@ title: "🏇 Keeneland 4/19"
 **Group Plan:**
 - Departing from home at **7:00 AM**
 - Meeting at parents' house at **7:45 AM** and carpool
-- Parking at **The Hill** ([Free Parking – Gate 4](https://maps.app.goo.gl/yucvJZQQddQWJcuy6))
+- Parking at **The Hill** ([Free Parking – Gate 1](https://maps.app.goo.gl/yucvJZQQddQWJcuy6))
   - `38.0443790, -84.5933167`
 - Watching races from **12:00–3:30 PM**
 - Leaving around **4:00 PM** to head to Cincinnati
@@ -39,7 +39,7 @@ title: "🏇 Keeneland 4/19"
 - **9:15–9:30 AM** – Arrive at *The Hill*, park and set up
 - **9:30–10:30 AM** – Relax, snacks, music
 - **10:30–11:30 AM** – Shuttle/walk to explore Grandstand & paddock
-- **12:00–3:30 PM** – Races at *The Hill*
+- **12:00–3:30 PM** – Watch races
 - **4:00 PM** – Depart for Cincinnati
 - **~5:00 PM** – Stop to change/freshen up
 - **5:45–6:00 PM** – Arrive at brewery for shower
@@ -91,7 +91,7 @@ title: "🏇 Keeneland 4/19"
 
 ![Keeneland Grounds Map](images/keeneland_map.jpg)
 
-Parking at **The Hill** ([Free Parking – Gate 4](https://maps.app.goo.gl/yucvJZQQddQWJcuy6)
+Parking at **The Hill** ([Free Parking – Gate 1](https://maps.app.goo.gl/yucvJZQQddQWJcuy6)
 - `38.0443790, -84.5933167`
 
 <a name="times"></a>
