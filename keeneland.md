@@ -276,18 +276,6 @@ New to betting? Here’s a quick rundown of common wager types used in the strat
 | 5    | WIN          | TBD                                           | $10      | [ ]     |        |
 | 6    | PLACE        | TBD                                           | $10      | [ ]     |        |
 
-| 9    | WIN          | Bishops Bay                                   | $10      | [ ]     |        |
-| 9    | PLACE        | Batten Down                                   | $10      | [ ]     |        |
-| 9    | TRIFECTA BOX | Bishops Bay, Batten Down, First Mission       | $2 box   | [ ]     |        |
-| 9    | TRIFECTA BOX | Bishops Bay, Batten Down, First Mission, Red Route One | $1 box   | [ ]     |        |
-| 9    | EXACTA KEY   | Bishops Bay over Batten Down, First Mission   | $2       | [ ]     |        |
-| 10   | WIN          | Crupi                                         | $10      | [ ]     |        |
-| 10   | PLACE        | Strong Quality                                | $10      | [ ]     |        |
-| 10   | EXACTA KEY   | Crupi over SQ, Gold Phoenix, Highway Robber   | $4       | [ ]     |        |
-| 10   | EXACTA BOX   | Crupi, SQ, Gold Phoenix, Highway Robber       | $1 box   | [ ]     |        |
-| 10   | SHOW         | Highway Robber                                | $4       | [ ]     |        |
-| 10   | WIN/PLACE    | Another Mystery                               | $2 / $2  | [ ]     |        |
-
 ---
 
 [Back to Top](#top)
