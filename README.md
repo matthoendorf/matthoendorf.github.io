@@ -28,7 +28,3 @@ GitHub Pages allows you to serve static content (like HTML, CSS, JavaScript, or 
 If you want to use a custom domain:
 - Add a `CNAME` file in the root with your domain name.
 - Configure your DNS to point to GitHub Pages' IPs.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
