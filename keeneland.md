@@ -25,7 +25,7 @@ title: "🏇 Keeneland 4/19"
 - 👕 [What to Wear](#what-to-wear)
 - 🧾 [Tailgating Checklist](#tailgating-checklist)
 - ✅ [Other Suggestions](#other-suggestions)
-- 🗺️ [Grounds Map](#grounds-map)
+- 🗺️ [Maps](#maps)
 - ⏰ [Post Times](#times)
 - 💸 [Betting Strategies](#betting-strategies)
   - 🏇 [Race 9: Ben Ali Stakes (G3)](#ben-ali)
@@ -86,13 +86,10 @@ title: "🏇 Keeneland 4/19"
 - [ ] **Apply sunscreen and bring lip balm**, even if it’s cloudy or cool.
 - [ ] **Pack a change of clothes** for the couples shower at brewery.
 
-<a name="grounds-map"></a>
-## 🗺️ Grounds Map
+<a name="maps"></a>
+## 🗺️ Maps
 
 ![Keeneland Grounds Map](images/keeneland_map.jpg)
-
-Parking at **The Hill** ([Free Parking – Gate 1](https://maps.app.goo.gl/yucvJZQQddQWJcuy6)
-- `38.0443790, -84.5933167`
 
 ![Keeneland Grandstand Map](images/grandstand.png)
 
