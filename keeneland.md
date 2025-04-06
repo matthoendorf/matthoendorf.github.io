@@ -34,6 +34,7 @@ description: "Race day itinerary, maps, bets, and tips"
   - 🏇 [Race 10: Elkhorn Stakes (G2)](#elkhorn)
  - 🧠 [Betting Terminology](#bet-terms)
  - 📋 [Bet Tracker](#bet-tracker)
+ - 🤳 [Share This!](#qr)
 
 <a name="day-of-schedule"></a>
 ## 🗓️ Day-Of Schedule
@@ -279,6 +280,7 @@ New to betting? Here’s a quick rundown of common wager types used in the strat
 
 ---
 
+<a name="qr"></a>
 ## 🤳 Share This!
 
 ![keeneland_qr_code](https://github.com/user-attachments/assets/2eed1b23-ded6-4af0-8b3c-4afb3bb70537)
