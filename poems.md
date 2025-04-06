@@ -1,5 +1,5 @@
 ---
-title: "✍️ Poems"
+title: "🧻 Poems"
 ---
 
 ## Table of Contents
