@@ -1,6 +1,5 @@
 ---
 title: "🏠 Home"
-nav: false
 ---
 
 Welcome to my GitHub Pages site! This repository is used to host a personal or project site using [GitHub Pages](https://pages.github.com/).
