@@ -1,6 +1,5 @@
 ---
-title: "🏇 Keeneland 4/19"
-description: "Race day itinerary, maps, bets, and tips"
+title: "🏇 Keeneland"
 ---
 <a name="top"></a>
 ## Overview
