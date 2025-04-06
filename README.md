@@ -1,5 +1,5 @@
 ---
-title: "馃彔 Home"
+title: "🏠 Home"
 exclude: true
 ---
 
