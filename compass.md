@@ -1,8 +1,9 @@
 ---
 title: "🧭 Compass"
 ---
-
 <a name="top"></a>
+## Overview
+
 > ¹¹ For I know the thoughts that I think toward you, says the Lord, thoughts of peace and not of evil, to give you a future and a hope.  
 [‭Jeremiah‬ ‭29:11‬ ‭NKJV‬](https://bible.com/bible/114/jer.29.11.NKJV)
 
@@ -16,7 +17,7 @@ The words of this document should come through prayer and self-reflection.
 ## Jump To...
 
 - [✝️ Relationship with God](#relationship-with-god)
-- [💍 Relationship with Partner](#relationship-with-partner)
+- [💍 Marriage](#marriage)
 - [👨‍👩‍👧‍👦 Family & Friends](#family--friends)
 - [⚕️ Health & Self-Care](#health--self-care)
 - [👨‍💻 Work & Career](#work--career)
@@ -26,7 +27,7 @@ The words of this document should come through prayer and self-reflection.
 - [🏕️ Do Something You Love](#do-something-you-love)
 
 <a name="relationship-with-god"></a>
-## Relationship with God ✝️
+## ✝️ Relationship with God
 
 ### Scripture
 > ³⁷ Jesus said to him, “‘You shall love the Lord your God with all your heart, with all your soul, and with all your mind.’  ³⁸ This is the first and great commandment.  
@@ -38,8 +39,8 @@ The words of this document should come through prayer and self-reflection.
 * Daily reflection and inventory
 * Review sermon notes
 
-<a name="relationship-with-partner"></a>
-## Relationship with Partner 💍
+<a name="marriage"></a>
+## 💍 Marriage
 
 ### Scripture
 > ²⁵ Husbands, love your wives, just as Christ also loved the church and gave Himself for her.  
@@ -57,7 +58,7 @@ The words of this document should come through prayer and self-reflection.
 * Daily thoughtful conversation
 
 <a name="family--friends"></a>
-## Family & Friends 👨‍👩‍👧‍👦
+## 👨‍👩‍👧‍👦 Family & Friends
 
 ### Scripture
 > ¹⁴ whereas you do not know what will happen tomorrow. For what is your life? It is even a vapor that appears for a little time and then vanishes away.  
@@ -71,7 +72,7 @@ The words of this document should come through prayer and self-reflection.
 * Talk on the phone 
 
 <a name="health--self-care"></a>
-## Health & Self-Care ⚕️
+## ⚕️ Health & Self-Care
 
 ### Scripture
 > ¹⁹ Or do you not know that your body is the temple of the Holy Spirit who is in you, whom you have from God, and you are not your own? ²⁰ For you were bought at a price; therefore glorify God in your body and in your spirit, which are God’s.  
@@ -83,7 +84,7 @@ The words of this document should come through prayer and self-reflection.
 * Address health issues as they arise
 
 <a name="work--career"></a>
-## Work & Career 👨‍💻
+## 👨‍💻 Work & Career
 
 ### Scripture
 > ¹¹ not lagging in diligence, fervent in spirit, serving the Lord; ¹² rejoicing in hope, patient in tribulation, continuing steadfastly in prayer;  
@@ -101,7 +102,7 @@ The words of this document should come through prayer and self-reflection.
 * Stop procrastinating
 
 <a name="church--community"></a>
-## Church & Community 🏡
+## 🏡 Church & Community
 
 ### Scripture
 > ¹³ For you, brethren, have been called to liberty; only do not use liberty as an opportunity for the flesh, but through love serve one another. ¹⁴ For all the law is fulfilled in one word, even in this: “You shall love your neighbor as yourself.”  
@@ -113,7 +114,7 @@ The words of this document should come through prayer and self-reflection.
 * Reach out to neighbors
 
 <a name="budget--finance"></a>
-## Budget & Finance 🏦
+## 🏦 Budget & Finance
 
 ### Scripture
 > ⁹ Honor the Lord with your possessions, And with the firstfruits of all your increase; ¹⁰ So your barns will be filled with plenty, And your vats will overflow with new wine.  
@@ -128,7 +129,7 @@ The words of this document should come through prayer and self-reflection.
 * Seek opportunity
 
 <a name="material-possessions"></a>
-## Material Possessions 🛠️
+## 🛠️ Material Possessions
 
 ### Scripture
 > ¹⁹ “Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal; ²⁰ but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. ²¹ For where your treasure is, there your heart will be also.  
@@ -146,7 +147,7 @@ The words of this document should come through prayer and self-reflection.
 * Everything has a place
 
 <a name="do-something-you-love"></a>
-## Do Something You Love 🏕️
+## 🏕️ Do Something You Love
 
 ### Scripture
 > ¹ The heavens declare the glory of God; And the firmament shows His handiwork.  
