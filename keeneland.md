@@ -94,7 +94,7 @@ title: "🏇 Keeneland 4/19"
 Parking at **The Hill** ([Free Parking – Gate 1](https://maps.app.goo.gl/yucvJZQQddQWJcuy6)
 - `38.0443790, -84.5933167`
 
-![Keeneland Grandstands Map](images/grandstands.png)
+![Keeneland Grandstand Map](images/grandstand.png)
 
 ![Keeneland Bars & Concessions Map](images/concessions.png)
 
