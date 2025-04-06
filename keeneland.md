@@ -100,17 +100,30 @@ _Maps © Keeneland Association, Inc._
 <a name="times"></a>
 ### ⏰ Post Times
 
-- 1:00 – 1st WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FIVE
-- 1:32 – 2nd WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FOUR 
-- 2:04 – 3rd WPS, DBL, EX, TRI, PICK THREE, SUPER
-- 2:36 – 4th WPS, DBL, EX, TRI, PICK THREE, SUPER
-- 3:08 – 5th WPS, DBL, EX, TRI, PICK THREE, SUPER
-- 3:40 – 6th WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK SIX
-- 4:12 – 7th WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FIVE
-- 4:44 – 8th WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FOUR
-- 5:16 – 9th WPS, DBL, EX, TRI, SUPER – **BEN ALI (G3)**
-- 5:48 – 10th WPS, EX, TRI, SUPER – **ELKHORN (G2)**
-- 6:20 – 11th WPS, EX, TRI, SUPER, S HI 5
+- **1:00** – 1st WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FIVE
+- **1:32** – 2nd WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FOUR 
+- **2:04** – 3rd WPS, DBL, EX, TRI, PICK THREE, SUPER
+- **2:36** – 4th WPS, DBL, EX, TRI, PICK THREE, SUPER
+- **3:08** – 5th WPS, DBL, EX, TRI, PICK THREE, SUPER
+- **3:40** – 6th WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK SIX
+- **4:12** – 7th WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FIVE
+- **4:44** – 8th WPS, DBL, EX, TRI, PICK THREE, SUPER, PICK FOUR
+- **5:16** – 9th WPS, DBL, EX, TRI, SUPER – **BEN ALI (G3)**
+- **5:48** – 10th WPS, EX, TRI, SUPER – **VISITLEX ELKHORN (G2)**
+- **6:20** – 11th WPS, EX, TRI, SUPER, S HI 5
+
+### 📌 Reading the Wager Menu
+
+For example:
+> **1st WPS, DBL, EX, TRI, SUPER, PICK FIVE**
+
+Means on the 1st race, you can bet:
+- **W**in / **P**lace / **S**how  
+- **D**aily **Double** (into Race 2)  
+- **Ex**acta  
+- **Tri**fecta  
+- **Super**fecta  
+- Start of **Pick Five** sequence (Races 1–5)
 
 <a name="betting"></a>
 ## 💸 Betting Examples
@@ -154,7 +167,7 @@ _Maps © Keeneland Association, Inc._
 - **$4 Show – Highway Robber**  
   _Consistent finisher, good value_
 
-#### 4. [LONGSHOT SPRINKLE](#longshot) 
+#### 4. LONGSHOT SPRINKLE
 - **$2 Win / $2 Place – Another Mystery**  
   _Stamina play, live if pace collapses_
 
@@ -167,41 +180,58 @@ _Maps © Keeneland Association, Inc._
 
 New to betting? Here’s a quick rundown of common wager types used in the strategies above:
 
+### 🎯 Basic Bets
+
 <a name="win"></a>
-### **WIN**
+#### **WIN**
 - You win if your horse finishes **1st**.
 - Example: $10 Win on Crupi means you collect only if Crupi wins.
 
 <a name="place"></a>
-### **PLACE**
+#### **PLACE**
 - You win if your horse finishes **1st or 2nd**.
 - Lower payout than Win, but safer.
 
 <a name="show"></a>
-### **SHOW**
+#### **SHOW**
 - You win if your horse finishes **1st, 2nd, or 3rd**.
 - Safest of the three straight bets; smallest payout.
 
+### 🎯 Exotic Bets
+
 <a name="exacta"></a>
-### **EXACTA**
+#### **EXACTA (EX)**
 - You pick the **1st and 2nd place finishers in exact order**.
 - Higher payout, harder to hit.
 - **Box**: Covers all combinations of your picks (e.g., Horse A over Horse B **and** Horse B over Horse A).
 - **Key**: One horse must finish 1st, the others can finish 2nd in any order.
 
 <a name="trifecta"></a>
-### **TRIFECTA**
+#### **TRIFECTA (TRI)**
 - You pick the **1st, 2nd, and 3rd finishers in exact order**.
 - Big payout, tough to hit.
 - **Box**: Covers all combinations of your picks in the top 3.
 
-<a name="longshot"></a>
-### **LONGSHOT**
-- A horse with high odds and low expectations — but potentially high reward.
+#### **SUPERFECTA (SUPER)**
+- Pick the **top 4 finishers in exact order**.
+- Very tough to hit, but can pay big.
+- Can be boxed like Trifecta.
 
-### **OTHERS:**
-- **Exacta Box ($1)**: Includes all combos. A 3-horse box = 6 combinations = $6 total.
-- **Trifecta Box ($1)**: A 3-horse box = 6 combinations ($6). A 4-horse box = 24 combinations ($24).
+#### **SUPER HIGH FIVE (S HI 5)**
+- Pick the **top 5 finishers in exact order**.
+- Usually only offered in the last race.
+- High risk, potentially massive reward.
+
+### 🎯 Multi-Race Bets
+
+#### **DAILY DOUBLE (DBL)**
+- Pick the **winner of two consecutive races**.
+- Example: Win Race 1 & Race 2.
+
+#### **PICK THREE / FOUR / FIVE / SIX**
+- Pick the **winner of 3, 4, 5, or 6 races in a row**.
+- Can “spread” your ticket with multiple horses in each leg (increases cost).
+- Huge potential payouts.
 
 ### **Other Tips:**
 - Odds are listed as **5-1**, **10-1**, etc. This means you win $5 or $10 for every $1 bet (plus your original bet back).
