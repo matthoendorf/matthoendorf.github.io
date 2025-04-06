@@ -31,6 +31,7 @@ title: "🏇 Keeneland 4/19"
   - 🏇 [Race 9: Ben Ali Stakes (G3)](#ben-ali)
   - 🏇 [Race 10: Elkhorn Stakes (G2)](#elkhorn)
  - 🧠 [Betting Terminology](#bet-terms)
+ - 📋 [Bet Tracker](#bet-tracker)
 
 <a name="day-of-schedule"></a>
 ## 🗓️ Day-Of Schedule
@@ -237,6 +238,23 @@ New to betting? Here’s a quick rundown of common wager types used in the strat
 - Odds are listed as **5-1**, **10-1**, etc. This means you win $5 or $10 for every $1 bet (plus your original bet back).
 - You can place bets at teller windows or self-service kiosks at Keeneland.
 - You can also bet via apps like Keeneland Select Wagering (but may require account setup in advance).
+
+<a name="bet-tracker"></a>
+## 📋 Bet Tracker
+
+| Race | Wager Type   | Horse(s)                                      | Amount   | Placed? | Result |
+|------|--------------|-----------------------------------------------|----------|---------|--------|
+| 9    | WIN          | Bishops Bay                                   | $10      | [ ]     |        |
+| 9    | PLACE        | Batten Down                                   | $10      | [ ]     |        |
+| 9    | TRIFECTA BOX | Bishops Bay, Batten Down, First Mission       | $2 box   | [ ]     |        |
+| 9    | TRIFECTA BOX | Bishops Bay, Batten Down, First Mission, Red Route One | $1 box   | [ ]     |        |
+| 9    | EXACTA KEY   | Bishops Bay over Batten Down, First Mission   | $2       | [ ]     |        |
+| 10   | WIN          | Crupi                                         | $10      | [ ]     |        |
+| 10   | PLACE        | Strong Quality                                | $10      | [ ]     |        |
+| 10   | EXACTA KEY   | Crupi over SQ, Gold Phoenix, Highway Robber   | $4       | [ ]     |        |
+| 10   | EXACTA BOX   | Crupi, SQ, Gold Phoenix, Highway Robber       | $1 box   | [ ]     |        |
+| 10   | SHOW         | Highway Robber                                | $4       | [ ]     |        |
+| 10   | WIN/PLACE    | Another Mystery                               | $2 / $2  | [ ]     |        |
 
 ---
 
