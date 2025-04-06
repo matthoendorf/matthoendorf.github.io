@@ -28,6 +28,7 @@ title: "🏇 Keeneland 4/19"
 - 🗺️ [Maps](#maps)
 - ⏰ [Post Times](#times)
 - 💸 [Betting Examples](#betting)
+  - 🏇 [Races 1–6](#early-races)
   - 🏇 [Race 9: Ben Ali Stakes (G3)](#ben-ali)
   - 🏇 [Race 10: Elkhorn Stakes (G2)](#elkhorn)
  - 🧠 [Betting Terminology](#bet-terms)
@@ -129,9 +130,29 @@ Means on the 1st race, you can bet:
 <a name="betting"></a>
 ## 💸 Betting Examples
 
-💰  **Total Wagered:** $88
-1. **($42)** Race 9: G2 Elkhorn Stakes – 1½ mi Turf  
-2. **($46)** Race 10: G3 Ben Ali Stakes – 1⅛ mi Dirt
+<a name="early-races"></a>
+### 🏇 Races 1–6 (12:00–3:40 PM)
+
+#### 1. Optional Early Double (Races 1–2)
+- **$5 Daily Double – TBD > TBD**  
+  _Try to hit early momentum. Double starts with Race 1._
+
+#### 2. Pick 3 or Pick 5 Sequence
+- **$1 Pick 3 – Races 1, 2, 3 (TBD / TBD / TBD)**  
+  _Great sequence to test your multi-race strategy early._
+
+- **$0.50 Pick 5 – Races 1–5 (TBD...)**  
+  _Small budget, big potential payout if you go deep on coverage._
+
+#### 3. Race-by-Race Ideas
+- **Race 2 – Exacta Box ($1) – TBD, TBD**  
+  _Two solid contenders? Hedge both in a simple box._
+
+- **Race 5 – WIN – TBD ($10)**  
+  _By now you’ll have a feel for track bias and betting trends._
+
+- **Race 6 – PLACE – TBD ($10)**  
+  _This race happens right before departure. Safe play._
 
 <a name="ben-ali"></a>
 ### 🏇 [Ben Ali Stakes (G3) – Dirt Route](https://www.keeneland.com/events/300000-ben-ali-g3)
@@ -172,7 +193,11 @@ Means on the 1st race, you can bet:
 - **$2 Win / $2 Place – Another Mystery**  
   _Stamina play, live if pace collapses_
 
-📌 **Notes:**  
+💰  **Total Wagered:** $88
+1. **($42)** Race 9: G2 Elkhorn Stakes – 1½ mi Turf  
+2. **($46)** Race 10: G3 Ben Ali Stakes – 1⅛ mi Dirt
+
+📌 **Notes:**
 - **Crupi** and **Bishops Bay** are key leans.  
 - Elkhorn favors stamina/turf form; Ben Ali favors pace/class.
 
