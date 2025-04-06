@@ -206,7 +206,7 @@ New to betting? Here’s a quick rundown of common wager types used in the strat
 ### **Other Tips:**
 - Odds are listed as **5-1**, **10-1**, etc. This means you win $5 or $10 for every $1 bet (plus your original bet back).
 - You can place bets at teller windows or self-service kiosks at Keeneland.
-- You can also bet via apps like TwinSpires or TVG (but may require account setup in advance).
+- You can also bet via apps like Keeneland Select Wagering (but may require account setup in advance).
 
 ---
 
