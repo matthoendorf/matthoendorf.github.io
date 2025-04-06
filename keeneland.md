@@ -160,9 +160,7 @@ _Maps © Keeneland Association, Inc._
 
 📌 **Notes:**  
 - **Crupi** and **Bishops Bay** are key leans.  
-- Elkhorn favors stamina/turf form; Ben Ali favors pace/class.  
-- Adjust race numbers as post draw is confirmed.
-- Adjust plan based on race-day odds.
+- Elkhorn favors stamina/turf form; Ben Ali favors pace/class.
 
 <a name="bet-terms"></a>
 ## 🧠 Betting Terminology
