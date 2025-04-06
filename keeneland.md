@@ -194,7 +194,8 @@ New to betting? Here’s a quick rundown of common wager types used in the strat
 - **Box**: Covers all combinations of your picks in the top 3.
 
 <a name="longshot"></a>
-### **LONGSHOT**: A horse with high odds and low expectations — but potentially high reward.
+### **LONGSHOT**: 
+- A horse with high odds and low expectations — but potentially high reward.
 
 ### **OTHERS:**
 - **Exacta Box ($1)**: Includes all combos. A 3-horse box = 6 combinations = $6 total.
