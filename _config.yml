@@ -1,14 +1,13 @@
- 
 title: mdh pages
+description: mdh pages
+author: Matt Hoendorf
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://matthoendorf.github.io" # replace with your GitHub Pages URL
 
-remote_theme: jekyll/minima
+remote_theme: lorepirri/cayman-dark@v1.0.0
 plugins:
   - jekyll-remote-theme
-minima:
-  skin: dark # or auto if you want it to switch with your system settings.
 
-# Other optional settings
 markdown: kramdown
 highlighter: rouge
