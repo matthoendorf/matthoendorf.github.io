@@ -3,8 +3,7 @@ title: "✝️ Holy Week"
 ---
 <a name="top"></a>
 
-### Condensed Plan: Maundy Thursday to Easter Sunday  
-Daily journaling guide blending The Chosen episodes, full Scripture, guided commentary, and reflection space. Up to 3 episodes per day.  
+Condensed plan for Maundy Thursday to Easter Sunday. Daily journaling guide blending The Chosen episodes, full Scripture, guided commentary, and reflection space. Up to 3 episodes per day.  
 
 ---
 
