@@ -5,20 +5,19 @@ title: "🏇 Keeneland"
 ## Overview
 
 **Weather Forecast:**
-- Partly cloudy 🌥️
-- 63°F Hi (RealFeel 65°F), 42°F Lo
-- Light jacket recommended
+- Cloudy with a little rain 🌧️
+- 68°F Hi (RealFeel 66°F / Shade 64°F)
+- Light jacket / raincoat recommended
 - [AccuWeather Link](https://www.accuweather.com/en/us/keeneland/40223/daily-weather-forecast/2164419?day=15)
 
 **Group Plan:**
-- Departing from home at **7:00 AM**
-- Meeting at parents' house at **7:45 AM** and carpool
-- Parking at **The Hill** ([Free Parking – Gate 1](https://maps.app.goo.gl/yucvJZQQddQWJcuy6))
+- Departing from home at **7:15 AM**
+- Meeting at parents' house at **8:00 AM**
+- Parking at **The Hill** at **10:00 AM** ([Free Parking – Gate 1](https://maps.app.goo.gl/yucvJZQQddQWJcuy6))
   - `38.0443790, -84.5933167`
 - Watching races from **12:00–3:30 PM**
-- Leaving around **4:00 PM** to head to Cincinnati
-- Stop at parents’ house to get ready
-- **Couples shower @ 6:00 PM**
+- Leaving around **4:00 PM**
+- Couples shower at **6:00 PM**
 
 ## Jump to:
 - 🗓️ [Day-Of Schedule](#day-of-schedule)
@@ -38,13 +37,11 @@ title: "🏇 Keeneland"
 <a name="day-of-schedule"></a>
 ## 🗓️ Day-Of Schedule
 
-- **7:00 AM** – Leave home
-- **9:15–9:30 AM** – Arrive at *The Hill*, park and set up
-- **9:30–10:30 AM** – Relax, snacks, music
-- **10:30–11:30 AM** – Shuttle/walk to explore Grandstand & paddock
-- **12:00–3:30 PM** – Watch races
+- **7:15 AM** – Leave home
+- *10:00 AM** – Arrive at *The Hill*, park and set up
+- **10:15–11:30 AM** – Relax, snacks, music
+- **12:00–3:30 PM** – Shuttle to grandstand after firest race, watch races
 - **4:00 PM** – Depart for Cincinnati
-- **~5:00 PM** – Stop to change/freshen up
 - **5:45–6:00 PM** – Arrive at brewery for shower
 
 <a name="what-to-wear"></a>
