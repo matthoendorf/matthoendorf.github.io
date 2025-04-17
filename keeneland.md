@@ -5,10 +5,10 @@ title: "🏇 Keeneland"
 ## Overview
 
 **Weather Forecast:**
-- Cloudy with a little rain 🌧️
-- 68°F Hi (RealFeel 66°F / Shade 64°F)
+- Cloudy and breezy with a couple of showers and thunderstorms, heaviest late in the day ⛈️
+- 75°F Hi (RealFeel 71°F)
 - Light jacket / raincoat recommended
-- [AccuWeather Link](https://www.accuweather.com/en/us/keeneland/40223/daily-weather-forecast/2164419?day=15)
+- [AccuWeather Link](https://www.accuweather.com/en/us/keeneland/40223/daily-weather-forecast/2164419?day=3)
 
 **Group Plan:**
 - Departing from home at **7:15 AM**
