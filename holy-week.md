@@ -3,7 +3,7 @@ title: "✝️ Holy Week"
 ---
 <a name="top"></a>
 
-Daily journaling guide for Maundy Thursday through Easter Sunday, blending scripture with The Chosen episodes and guided commentary. Questions for self-reflection and prayer.
+Daily guide for Maundy Thursday through Easter Sunday, blending scripture with The Chosen episodes and guided commentary. Questions for self-reflection and prayer.
 
 ---
 
