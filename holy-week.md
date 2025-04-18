@@ -30,12 +30,12 @@ Daily guide for Maundy Thursday through Easter Sunday, blending scripture with T
 Before the cross, Jesus stooped low. With basin and towel, He redefined greatness as service and love as sacrifice. Even in the face of betrayal, He chose to wash feet.
 
 **Watch:**
-- **S4E4 – *Death and Taxes***  
-  *Jesus' teachings clash with the temple leadership. Judas begins turning inward.*  
-- **S4E5 – *Sabbath***  
-  *Jesus shares the Last Supper with His disciples as tensions peak and love takes center stage.*  
+- **S4E4 – *Calm Before***  
+  *A funeral procession marks the start of Jesus' final ministry days. His disciples crave prominence, while a Roman leader approaches with a modest plea.* 
+- **S4E5 – *Sitting, Serving, Scheming***  
+  *Jesus washes the disciples' feet, exemplifying servant leadership, while tensions rise among the group.*
 - **S1E8 – *I Am He***  
-  *Jesus reveals His identity to the Samaritan woman at the well.*
+  *Jesus reveals His identity to the Samaritan woman at the well, breaking social norms and offering living water.*
 
 ---
 
@@ -102,10 +102,10 @@ Lord, You are the King who kneels. You see every part of me and still draw near.
 This is the day love looked like suffering. The weight of the world bore down on Jesus, and He didn't turn away. The Cross shows us the depth of our brokenness – and the even greater depth of His love.
 
 **Watch:**
-- **S4E6 – *Calm Before***  
-  *Jesus prays in Gethsemane. The disciples struggle to understand. The darkness begins to fall.*  
-- **S4E7 – *Devastation***  
-  *Jesus is arrested, tried, and crucified. The disciples flee in despair.*  
+- **S4E6 – Dedication**
+  *Jesus and the disciples celebrate Hanukkah. Matthew confronts Judas about irregularities, and the festival turns into a fight, then flight.*
+- **S4E7 – The Last Sign**
+  *Jesus brings Lazarus back to life—setting off the chain of events that will lead to his own death.*
 - **S2E8 – *Beyond Mountains***  
   *Jesus prepares His followers for the cost of discipleship and the road ahead.*
 
@@ -233,8 +233,8 @@ Jesus, You took my place. You bore my weight. Let me never forget the price of Y
 The silence between Friday and Sunday is not empty – it's sacred. It's where sorrow sits and faith is stretched. Today invites us to wait with trust, even when the story feels unfinished.
 
 **Watch:**
-- **S4E8 – *To Be Continued***  
-  *The disciples wrestle with grief, silence, and shattered expectations.* 
+-  **S4E8 – Humble**
+  *Jesus weeps over Jerusalem. The disciples wrestle with confusion and rising fear in the hours before His arrest.*
 - **S3E2 – *Two by Two***  
   *The disciples are sent out on mission – an echo of hope and purpose.* 
 - **S3E5 – *Clean, Part 2***  
