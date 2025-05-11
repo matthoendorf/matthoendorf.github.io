@@ -3,9 +3,7 @@ title: "🍰 Business Checklist"
 ---
 <a name="top"></a>
 
-## 🚨 Immediate Next Steps
-
-If you're just getting started, prioritize these actions in the first few days:
+If you're just getting started, prioritize these actions first:
 
 - [ ] **Check your state’s cottage food laws** ([Ohio Info](https://agri.ohio.gov/programs/food-safety/resources/food-programs/cottage-food)) to confirm your products are allowed.
 - [ ] **Decide on your business structure** (General Partnership for simplicity, or LLC for liability protection).
@@ -16,8 +14,6 @@ If you're just getting started, prioritize these actions in the first few days:
 - [ ] **Start a simple shared folder (e.g., Google Drive)** to organize receipts, photos, branding, and documents.
 - [ ] **Purchase liability insurance** or get quotes — especially if selling publicly or at events.
 - [ ] **Set up Square** for taking orders, managing inventory, and accepting payments in person or online.
-
-Once these are underway, return to the rest of this guide to build out your full operations.
 
 ---
 
