@@ -3,10 +3,6 @@ title: "🍰 Business Checklist"
 ---
 <a name="top"></a>
 
-This is a practical, detailed checklist for launching a cottage food business as a two-person partnership. It covers legal setup, finances, branding, health/safety, and ongoing management with an emphasis on clear communication, proper tax handling, and long-term sustainability.
-
----
-
 ## 🚨 Immediate Next Steps
 
 If you're just getting started, prioritize these actions in the first few days:
@@ -16,9 +12,10 @@ If you're just getting started, prioritize these actions in the first few days:
 - [ ] **Draft a basic partnership agreement** outlining responsibilities and profit split.
 - [ ] **Apply for a Vendor’s License** through your county auditor (required for sales in Ohio).
 - [ ] **Open a business bank account** to separate finances immediately.
-- [ ] **Begin tracking all income and expenses** from day one, even if it's just a shared spreadsheet.
+- [ ] **Begin tracking all income and expenses** from day one using **Quicken** or a shared spreadsheet.
 - [ ] **Start a simple shared folder (e.g., Google Drive)** to organize receipts, photos, branding, and documents.
 - [ ] **Purchase liability insurance** or get quotes — especially if selling publicly or at events.
+- [ ] **Set up Square** for taking orders, managing inventory, and accepting payments in person or online.
 
 Once these are underway, return to the rest of this guide to build out your full operations.
 
@@ -35,6 +32,7 @@ Once these are underway, return to the rest of this guide to build out your full
 - [🗣️ Communication Norms](#communication)
 - [🎯 Shared Vision & Long-Term Goals](#vision)
 - [🚀 Launch & Growth](#launch)
+- [🧠 How Matthew Can Help](#matthew)
 
 ---
 
@@ -61,7 +59,7 @@ Once these are underway, return to the rest of this guide to build out your full
 # 💰 Finances & Risk Management
 
 - [ ] Open a joint business checking account
-- [ ] Set up shared accounting (Wave, QuickBooks, or Google Sheets)
+- [ ] Use **Quicken** to manage income, expenses, and reporting
 - [ ] Track **all** expenses and startup contributions:
   - Ingredients, packaging, tools, licenses
   - Marketing, photos, business cards, delivery fuel
@@ -117,12 +115,15 @@ Once these are underway, return to the rest of this guide to build out your full
 <a name="sales"></a>
 # 🛒 Sales Channels & Fulfillment
 
-- [ ] Choose where/how you’ll sell:
-  - Porch pickup
-  - Local delivery
-  - Farmers markets or events
+- [ ] Use **Square** to handle:
+  - In-person sales (markets, pickups)
+  - Online store for delivery/pickup
+  - Inventory and order tracking
+  - Customer directory and purchase history
 - [ ] Define fulfillment roles (baking, packing, delivery)
-- [ ] Set up payment systems (Venmo Business, PayPal, Square)
+- [ ] Optionally evaluate **Shopify** later if you want a fully branded online store
+- [ ] Consider **Stripe** only if custom workflows or integrations are needed
+- [ ] Sync sales data with Quicken for tracking
 - [ ] Standardize packaging for safety and professionalism
 
 ---
@@ -168,6 +169,36 @@ Once these are underway, return to the rest of this guide to build out your full
 - [ ] Track every sale and expense from day one
 - [ ] Revisit agreement and financials monthly
 - [ ] Celebrate wins and iterate
+
+---
+
+<a name="matthew"></a>
+# 🧠 How Matthew Can Help
+
+Matt brings technical and strategic strengths to keep the business lean and efficient. Here are ways he can support:
+
+- **Website & Online Presence**
+  - Build a clean, mobile-friendly site with order forms, menus, and SEO
+  - Help set up Square Online or Shopify Lite if/when needed
+
+- **Marketing & Growth**
+  - Email newsletter setup with free tools like MailerLite or Substack
+  - Google Business profile, Yelp, and local SEO optimization
+  - Automate Instagram posts using Buffer or Notion + Zapier
+
+- **Tracking & Automation**
+  - Connect Square to Quicken or Google Sheets
+  - Create dashboards for inventory, order volume, or customer metrics
+  - Set up shared finance and order folders with alert rules
+
+- **Open Source & Lean Ops**
+  - Identify free or low-cost tools to replace paid SaaS (e.g., Figma, GIMP, Notion, Plausible Analytics)
+  - Use GitHub for managing recipe/test logs or documentation
+  - Deploy no-cost tools for forms, CRMs, or internal tracking
+
+- **Technical Strategy**
+  - Advise on when to upgrade from Square to Shopify or Stripe
+  - Help future-proof systems for scaling
 
 ---
 
