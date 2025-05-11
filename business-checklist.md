@@ -3,6 +3,8 @@ title: "🍰 Business Checklist"
 ---
 <a name="top"></a>
 
+### Initial Action Items
+
 If you're just getting started, prioritize these actions first:
 
 - [ ] **Check your state’s cottage food laws** ([Ohio Info](https://agri.ohio.gov/programs/food-safety/resources/food-programs/cottage-food)) to confirm your products are allowed.
@@ -17,7 +19,7 @@ If you're just getting started, prioritize these actions first:
 
 ---
 
-## Jump To...
+### Jump To...
 - [📋 Legal & Administrative Setup](#legal)
 - [💰 Finances & Risk Management](#finances)
 - [🧾 Personal Taxes & Bookkeeping](#taxes)
@@ -33,7 +35,7 @@ If you're just getting started, prioritize these actions first:
 ---
 
 <a name="legal"></a>
-# 📋 Legal & Administrative Setup
+### 📋 Legal & Administrative Setup
 
 - [ ] Check state and local cottage food laws ([Ohio Cottage Food Regulations](https://agri.ohio.gov/programs/food-safety/resources/food-programs/cottage-food))
 - [ ] Choose business structure: General Partnership or LLC
@@ -52,7 +54,7 @@ If you're just getting started, prioritize these actions first:
 ---
 
 <a name="finances"></a>
-# 💰 Finances & Risk Management
+### 💰 Finances & Risk Management
 
 - [ ] Open a joint business checking account
 - [ ] Use **Quicken** to manage income, expenses, and reporting
@@ -66,7 +68,7 @@ If you're just getting started, prioritize these actions first:
 ---
 
 <a name="taxes"></a>
-# 🧾 Personal Taxes & Bookkeeping
+### 🧾 Personal Taxes & Bookkeeping
 
 - [ ] Report all income and expenses via **Schedule C** on Form 1040
 - [ ] Pay **self-employment tax** (15.3%) via **Schedule SE**
@@ -80,7 +82,7 @@ If you're just getting started, prioritize these actions first:
 ---
 
 <a name="pricing"></a>
-# 💵 Pricing & Profit Agreement
+### 💵 Pricing & Profit Agreement
 
 - [ ] Define pricing approach: cost-plus, market, or value-based
 - [ ] Agree on markup/margin goals (e.g., 50–70%)
@@ -93,7 +95,7 @@ If you're just getting started, prioritize these actions first:
 ---
 
 <a name="branding"></a>
-# ✨ Branding & Operations
+### ✨ Branding & Operations
 
 - [ ] Finalize product line (start small: 1–3 core items)
 - [ ] Design brand elements:
@@ -109,7 +111,7 @@ If you're just getting started, prioritize these actions first:
 ---
 
 <a name="sales"></a>
-# 🛒 Sales Channels & Fulfillment
+### 🛒 Sales Channels & Fulfillment
 
 - [ ] Use **Square** to handle:
   - In-person sales (markets, pickups)
@@ -125,7 +127,7 @@ If you're just getting started, prioritize these actions first:
 ---
 
 <a name="health"></a>
-# 🧼 Health & Safety Standards
+### 🧼 Health & Safety Standards
 
 - [ ] Follow Ohio labeling laws (name, address, ingredients, allergens, “This product is home produced”)
 - [ ] Use gloves, hair nets, and proper food-safe practices
@@ -136,7 +138,7 @@ If you're just getting started, prioritize these actions first:
 ---
 
 <a name="communication"></a>
-# 🗣️ Communication Norms
+### 🗣️ Communication Norms
 
 - [ ] Agree on communication tools (text, Trello, Google Docs, etc.)
 - [ ] Decide on voting vs. consensus for decisions
@@ -146,7 +148,7 @@ If you're just getting started, prioritize these actions first:
 ---
 
 <a name="vision"></a>
-# 🎯 Shared Vision & Long-Term Goals
+### 🎯 Shared Vision & Long-Term Goals
 
 - [ ] Define purpose: fun, income, passion, eventual scale?
 - [ ] Set 6-month and 1-year goals
@@ -158,7 +160,7 @@ If you're just getting started, prioritize these actions first:
 ---
 
 <a name="launch"></a>
-# 🚀 Launch & Growth
+### 🚀 Launch & Growth
 
 - [ ] Soft-launch with friends and neighbors
 - [ ] Gather feedback (taste, price, packaging)
@@ -169,7 +171,7 @@ If you're just getting started, prioritize these actions first:
 ---
 
 <a name="matthew"></a>
-# 🧠 How Matthew Can Help
+### 🧠 How Matthew Can Help
 
 Matt brings technical and strategic strengths to keep the business lean and efficient. Here are ways he can support:
 
