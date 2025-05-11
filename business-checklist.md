@@ -175,7 +175,7 @@ Matt brings technical and strategic strengths to keep the business lean and effi
 
 - **Website & Online Presence**
   - Build a clean, mobile-friendly site with order forms, menus, and SEO
-  - Help set up Square Online or Shopify Lite if/when needed
+  - Help set up Square Online if/when needed
 
 - **Marketing & Growth**
   - Email newsletter setup with free tools like MailerLite or Substack
