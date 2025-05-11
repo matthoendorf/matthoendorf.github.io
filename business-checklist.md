@@ -1,163 +1,157 @@
-# Cottage Food Business Startup Checklist 
-# (Partnership Edition)
-This checklist is tailored for a 
-two-person team starting a cottage food 
-business (e.g., home bakery, preserves, 
-etc.) under a general partnership or LLC 
-structure. ---
-## Legal & Administrative Setup
-- [ ] Check state and local cottage food 
-laws (e.g., allowed foods, labeling, 
-sales restrictions)
-  - [Ohio Cottage Food 
-  Regulations](https://agri.ohio.gov/programs/food-safety/resources/food-programs/cottage-food)
-- [ ] Choose a business structure: - 
-  General Partnership (default but shared 
-  liability) - Limited Liability Company 
-  (LLC) for liability protection
-- [ ] Draft a Partnership Agreement, 
-covering:
-  - Ownership percentage (e.g., 50/50) - 
-  Roles and responsibilities - 
-  Decision-making and dispute resolution 
-  - Profit/loss sharing - Exit or buyout 
-  process
-- [ ] Register the business name (DBA or 
-LLC) with your state - [ ] Obtain 
-necessary licenses and permits:
-  - Vendor’s License (from County Auditor 
-  in Ohio) - Food Handler’s Certificate 
-  (if required)
-- [ ] Apply for an EIN (Employer 
-Identification Number) from the IRS (free 
-at irs.gov) - [ ] Contact homeowners 
-insurance to ask about business activity 
-exclusions or required riders ---
-## Finances & Risk Management
-- [ ] Open a joint business checking 
-account under the business name or LLC - 
-[ ] Set up a shared accounting system:
-  - Options: QuickBooks Self-Employed, 
-  Wave Accounting (free), Google Sheets
-- [ ] Track all startup contributions 
-from each partner (money, time, 
-equipment, ingredients) - [ ] Record 
-**every** business expense:
-  - Ingredients, packaging, labels - 
-  Kitchen equipment - Website or branding 
-  tools - Delivery gas/mileage - Licenses 
-  and certifications
-- [ ] Purchase business insurance: - 
-  General liability - Product liability 
-  (specific to food) - Optional: 
-  Property/business contents insurance
-- [ ] Maintain logs of mileage and 
-inventory
-  - Use a tool like Everlance or MileIQ 
-  for mileage - Track inventory turnover 
-  and cost of goods sold
 ---
-## Personal Tax Considerations
-- [ ] Understand that business **income 
-will “pass through” to your personal 
-taxes**
-  - Income and expenses go on **Schedule 
-  C** of Form 1040 for each partner - 
-  Partners must also file **Schedule SE** 
-  for self-employment taxes (15.3%) - If 
-  structured as an LLC, each partner 
-  typically receives a **K-1**
-- [ ] Pay **quarterly estimated taxes** 
-if expected to owe >$1,000 in federal tax
-  - Due dates: April 15, June 15, Sept 
-  15, Jan 15
-- [ ] Consider using a CPA or tax 
-software (e.g., TurboTax Self-Employed) 
-to track pass-through income - [ ] Keep 
-all receipts and financial documentation 
-for at least **3 years** ---
-## Pricing & Profit Agreement
-- [ ] Define pricing strategy: - 
-  Cost-plus pricing (cost of goods + 
-  markup) - Market rate or value-based 
-  pricing
-- [ ] Agree on markup/margin goals (e.g. 
-50–70%) - [ ] Document how profits are 
-handled:
-  - Split monthly, quarterly, or 
-  reinvested into business?
-- [ ] Set rules around: - Discounts for 
-  friends/family - Donations and samples 
-  - Handling comps or product waste
+title: "🍞 Cottage Food Business – Partnership Startup Guide"
 ---
-## Branding & Operations
-- [ ] Define your product line (start 
-with 1–3 signature items) - [ ] Develop 
-cohesive branding:
-  - Business name, logo, tone - Labeling 
-  and packaging that meets state 
-  requirements
-- [ ] Create marketing assets: - Take 
-  quality product photos - Write a short 
-  origin story and product descriptions
-- [ ] Set up marketing channels: - 
-  Instagram - Facebook Page - Optional: 
-  website (Carrd, Wix, Shopify Starter, 
-  Square)
+<a name="top"></a>
+
+This is a practical, detailed checklist for launching a cottage food business as a two-person partnership. It covers legal setup, finances, branding, health/safety, and ongoing management with an emphasis on clear communication, proper tax handling, and long-term sustainability.
+
 ---
-## Sales Channels & Fulfillment
-- [ ] Define how and where you will sell: 
-  - Porch pickup - Local delivery - 
-  Farmers markets - Events or vendor 
-  pop-ups
-- [ ] Agree on fulfillment roles: - Who 
-  handles baking, packing, and delivery?
-- [ ] Choose a payment method/platform: - 
-  Venmo for Business, Square, PayPal
-- [ ] Set packaging standards: - 
-  Labeling, safety seals, storage 
-  instructions
+
+## Jump To...
+- [📋 Legal & Administrative Setup](#legal)
+- [💰 Finances & Risk Management](#finances)
+- [🧾 Personal Taxes & Bookkeeping](#taxes)
+- [💵 Pricing & Profit Agreement](#pricing)
+- [✨ Branding & Operations](#branding)
+- [🛒 Sales Channels & Fulfillment](#sales)
+- [🧼 Health & Safety Standards](#health)
+- [🗣️ Communication Norms](#communication)
+- [🎯 Shared Vision & Long-Term Goals](#vision)
+- [🚀 Launch & Growth](#launch)
+
 ---
-## Health & Safety Standards
-- [ ] Label all products according to 
-Ohio cottage food law:
-  - Business name and address - Product 
-  name and ingredient list - Allergy 
-  disclosures - Statement: “This product 
-  is home produced.”
-- [ ] Maintain kitchen cleanliness and 
-sanitation logs - [ ] Track all batches 
-(production date, ingredients used) - [ ] 
-Use gloves, hair nets, and proper 
-food-safe handling tools ---
-## Communication Norms
-- [ ] Agree on communication channels: - 
-  Text, Google Chat, shared Trello board, 
-  etc.
-- [ ] Decide how major decisions are 
-made:
-  - Simple majority? - Unanimous consent 
-  for large expenses?
-- [ ] Schedule regular partnership 
-check-ins (weekly or biweekly) - [ ] 
-Document all key business decisions and 
-store them in a shared folder ---
-## Shared Vision & Long-Term Goals
-- [ ] Define your shared mission: - Is 
-  this a side hustle, growth plan, or 
-  lifestyle business?
-- [ ] List goals for 6 months, 1 year, 
-and beyond - [ ] Decide if you're open 
-to:
-  - Scaling into a commercial kitchen - 
-  Selling in retail stores - Expanding 
-  the product line or hiring help
+
+<a name="legal"></a>
+# 📋 Legal & Administrative Setup
+
+- [ ] Check state and local cottage food laws ([Ohio Cottage Food Regulations](https://agri.ohio.gov/programs/food-safety/resources/food-programs/cottage-food))
+- [ ] Choose business structure: General Partnership or LLC
+- [ ] Draft a Partnership Agreement:
+  - Ownership percentages
+  - Roles and responsibilities
+  - Profit/loss sharing
+  - Decision-making and exit process
+- [ ] Register a DBA or LLC
+- [ ] Obtain necessary licenses:
+  - Vendor’s License (County Auditor)
+  - Food Handler’s Certificate (if required)
+- [ ] Get an EIN from the IRS
+- [ ] Notify homeowners insurance carriers about business activity
+
 ---
-## Launch & Growth
-- [ ] Do a small product launch with 
-friends/family - [ ] Collect feedback on 
-taste, price, packaging, and experience - 
-[ ] Track every sale and expense from day 
-one - [ ] Hold regular financial and 
-strategy reviews
-- [ ] Celebrate early wins and adjust based on what you learn
+
+<a name="finances"></a>
+# 💰 Finances & Risk Management
+
+- [ ] Open a joint business checking account
+- [ ] Set up shared accounting (Wave, QuickBooks, or Google Sheets)
+- [ ] Track **all** expenses and startup contributions:
+  - Ingredients, packaging, tools, licenses
+  - Marketing, photos, business cards, delivery fuel
+- [ ] Use mileage tracking app (e.g., MileIQ, Everlance)
+- [ ] Purchase liability and product insurance
+  - Optional: add property/business contents insurance
+
+---
+
+<a name="taxes"></a>
+# 🧾 Personal Taxes & Bookkeeping
+
+- [ ] Report all income and expenses via **Schedule C** on Form 1040
+- [ ] Pay **self-employment tax** (15.3%) via **Schedule SE**
+- [ ] If LLC, report income via **K-1** forms for each partner
+- [ ] Set aside **20–30%** of profit for taxes
+- [ ] File **quarterly estimated taxes** if you’ll owe over $1,000:
+  - Due: April 15, June 15, Sept 15, Jan 15
+- [ ] Store all receipts and logs for **3+ years**
+- [ ] Consider using a CPA or tax software for partnership filings
+
+---
+
+<a name="pricing"></a>
+# 💵 Pricing & Profit Agreement
+
+- [ ] Define pricing approach: cost-plus, market, or value-based
+- [ ] Agree on markup/margin goals (e.g., 50–70%)
+- [ ] Decide how profits are distributed: monthly, quarterly, reinvested?
+- [ ] Set rules for:
+  - Discounts
+  - Donations/samples
+  - Wasted/unsellable goods
+
+---
+
+<a name="branding"></a>
+# ✨ Branding & Operations
+
+- [ ] Finalize product line (start small: 1–3 core items)
+- [ ] Design brand elements:
+  - Name
+  - Logo
+  - Fonts, colors, tone
+- [ ] Create packaging and compliant labels
+- [ ] Build social presence:
+  - Instagram
+  - Facebook Page
+- [ ] Set up shared Google Drive or folder for all assets
+
+---
+
+<a name="sales"></a>
+# 🛒 Sales Channels & Fulfillment
+
+- [ ] Choose where/how you’ll sell:
+  - Porch pickup
+  - Local delivery
+  - Farmers markets or events
+- [ ] Define fulfillment roles (baking, packing, delivery)
+- [ ] Set up payment systems (Venmo Business, PayPal, Square)
+- [ ] Standardize packaging for safety and professionalism
+
+---
+
+<a name="health"></a>
+# 🧼 Health & Safety Standards
+
+- [ ] Follow Ohio labeling laws (name, address, ingredients, allergens, “This product is home produced”)
+- [ ] Use gloves, hair nets, and proper food-safe practices
+- [ ] Clean and sanitize prep areas before each batch
+- [ ] Maintain batch logs (date, ingredients, quantities)
+- [ ] Track shelf life and storage guidance for each product
+
+---
+
+<a name="communication"></a>
+# 🗣️ Communication Norms
+
+- [ ] Agree on communication tools (text, Trello, Google Docs, etc.)
+- [ ] Decide on voting vs. consensus for decisions
+- [ ] Hold weekly or biweekly check-ins
+- [ ] Document key decisions in a shared folder
+
+---
+
+<a name="vision"></a>
+# 🎯 Shared Vision & Long-Term Goals
+
+- [ ] Define purpose: fun, income, passion, eventual scale?
+- [ ] Set 6-month and 1-year goals
+- [ ] Discuss:
+  - Commercial kitchen expansion?
+  - Farmers markets or stores?
+  - Hiring help someday?
+
+---
+
+<a name="launch"></a>
+# 🚀 Launch & Growth
+
+- [ ] Soft-launch with friends and neighbors
+- [ ] Gather feedback (taste, price, packaging)
+- [ ] Track every sale and expense from day one
+- [ ] Revisit agreement and financials monthly
+- [ ] Celebrate wins and iterate
+
+---
+
+[↑ Back to Top](#top)
