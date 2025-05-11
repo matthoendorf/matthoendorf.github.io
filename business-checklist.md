@@ -173,8 +173,6 @@ If you're just getting started, prioritize these actions first:
 <a name="matthew"></a>
 ### 🧠 How Matthew Can Help
 
-Matt brings technical and strategic strengths to keep the business lean and efficient. Here are ways he can support:
-
 - **Website & Online Presence**
   - Build a clean, mobile-friendly site with order forms, menus, and SEO
   - Help set up Square Online if/when needed
@@ -195,7 +193,7 @@ Matt brings technical and strategic strengths to keep the business lean and effi
   - Deploy no-cost tools for forms, CRMs, or internal tracking
 
 - **Technical Strategy**
-  - Advise on when to upgrade from Square to Shopify or Stripe
+  - Advise on what services to use
   - Help future-proof systems for scaling
 
 ---
