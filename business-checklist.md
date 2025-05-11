@@ -1,9 +1,26 @@
 ---
-title: "🍞 Cottage Food Business – Partnership Startup Guide"
+title: "🍞 Business Checklist"
 ---
 <a name="top"></a>
 
 This is a practical, detailed checklist for launching a cottage food business as a two-person partnership. It covers legal setup, finances, branding, health/safety, and ongoing management with an emphasis on clear communication, proper tax handling, and long-term sustainability.
+
+---
+
+## 🚨 Immediate Next Steps
+
+If you're just getting started, prioritize these actions in the first few days:
+
+- [ ] **Check your state’s cottage food laws** ([Ohio Info](https://agri.ohio.gov/programs/food-safety/resources/food-programs/cottage-food)) to confirm your products are allowed.
+- [ ] **Decide on your business structure** (General Partnership for simplicity, or LLC for liability protection).
+- [ ] **Draft a basic partnership agreement** outlining responsibilities and profit split.
+- [ ] **Apply for a Vendor’s License** through your county auditor (required for sales in Ohio).
+- [ ] **Open a business bank account** to separate finances immediately.
+- [ ] **Begin tracking all income and expenses** from day one, even if it's just a shared spreadsheet.
+- [ ] **Start a simple shared folder (e.g., Google Drive)** to organize receipts, photos, branding, and documents.
+- [ ] **Purchase liability insurance** or get quotes — especially if selling publicly or at events.
+
+Once these are underway, return to the rest of this guide to build out your full operations.
 
 ---
 
